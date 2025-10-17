@@ -12,7 +12,7 @@ export default function AdmissionsPage() {
           <div className="max-w-3xl">
             <h1 className="font-serif text-5xl lg:text-6xl font-semibold mb-6 text-balance">Admissions</h1>
             <p className="text-xl text-muted-foreground leading-relaxed">
-              Begin your journey with Oakwood Academy. We're excited to welcome your family to our community.
+              Begin your journey with Sunflower School. We're excited to welcome your family to our community.
             </p>
           </div>
         </div>
@@ -62,22 +62,18 @@ export default function AdmissionsPage() {
             <h2 className="font-serif text-4xl font-semibold mb-12 text-center">Tuition & Financial Aid</h2>
             <div className="grid md:grid-cols-2 gap-8">
               <Card className="p-8">
-                <h3 className="font-serif text-2xl font-semibold mb-4">2024-2025 Tuition</h3>
+                <h3 className="font-serif text-2xl font-semibold mb-4">2025-2026 Tuition</h3>
                 <div className="space-y-3 text-muted-foreground">
                   <div className="flex justify-between">
-                    <span>Kindergarten</span>
+                    <span>Preschool (Age: 1year and above)</span>
                     <span className="font-semibold">$12,500</span>
                   </div>
                   <div className="flex justify-between">
-                    <span>Elementary (Grades 1-5)</span>
-                    <span className="font-semibold">$15,000</span>
-                  </div>
-                  <div className="flex justify-between">
-                    <span>Middle School (Grades 6-8)</span>
+                    <span>Primary School (Basic 1-6)</span>
                     <span className="font-semibold">$18,500</span>
                   </div>
                   <div className="flex justify-between">
-                    <span>High School (Grades 9-12)</span>
+                    <span>Junior High School (Basic 7-9)</span>
                     <span className="font-semibold">$21,000</span>
                   </div>
                 </div>

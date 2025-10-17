@@ -3,31 +3,31 @@ import { Card } from "@/components/ui/card"
 const programs = [
   {
     number: "01",
-    title: "Kindergarten",
+    title: "Preschool",
     description:
       "A nurturing environment where young learners discover the joy of learning through play-based education and foundational skills development.",
-    ages: "Ages 5-6",
+    ages: "Age 1 and above",
   },
   {
     number: "02",
-    title: "Elementary School",
+    title: "Primary School",
     description:
       "Building strong academic foundations with engaging curriculum that fosters curiosity, creativity, and critical thinking skills.",
-    ages: "Grades 1-5",
+    ages: "Basic 1 - 6",
   },
   {
     number: "03",
-    title: "Middle School",
+    title: "Junior High School",
     description:
       "Guiding students through transformative years with comprehensive programs that develop independence, leadership, and academic excellence.",
-    ages: "Grades 6-8",
+    ages: "Basic 7 - 9",
   },
   {
     number: "04",
-    title: "High School",
+    title: "Special School",
     description:
-      "Preparing students for college and beyond with rigorous academics, advanced placement courses, and personalized college counseling.",
-    ages: "Grades 9-12",
+      "We support students with special needs, including Autism and learning challenges. Our caring teachers provide personalized guidance that builds confidence, communication, and life skills—helping every child shine in their own unique way.",
+    ages: "Preschool - Basic 9",
   },
 ]
 
@@ -40,8 +40,14 @@ export function Programs() {
             Our Educational Programs
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto leading-relaxed">
-            Comprehensive education tailored to each developmental stage, ensuring every student reaches their full
-            potential.
+            At our school, we offer a rich and balanced curriculum that combines both <b>Ghana Education Service (GES)</b> and <b>Pearson Edexcel (UK) programmes.</b><br />
+            This dual approach allows our students to enjoy the best of both worlds — a strong foundation in Ghana’s national curriculum and access to internationally recognized standards.
+            <br />
+            Through the <b>GES</b> curriculum, learners develop essential skills in Mathematics, English, Science, and Social Studies while gaining cultural and moral education rooted in Ghanaian values.
+            <br />
+            Our <b>Pearson Edexcel</b> programme complements this by preparing students for international qualifications such as the IGCSE and A-Levels, opening pathways to top universities around the world.
+            <br />
+            We are committed to nurturing confident, knowledgeable, and globally minded learners ready to thrive anywhere in the world.
           </p>
         </div>
 

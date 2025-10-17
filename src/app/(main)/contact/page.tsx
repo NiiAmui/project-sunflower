@@ -43,7 +43,9 @@ export default function ContactPage() {
           <div className="max-w-3xl">
             <h1 className="font-serif text-5xl lg:text-6xl font-semibold mb-6 text-balance">Contact Us</h1>
             <p className="text-xl text-muted-foreground leading-relaxed">
-              We'd love to hear from you. Reach out with any questions about admissions, programs, or campus life.
+              Have questions or need assistance?
+              <br />
+              We’d love to hear from you! Reach out to us for admissions, inquiries, or general information.
             </p>
           </div>
         </div>
@@ -65,9 +67,11 @@ export default function ContactPage() {
                     <div>
                       <h3 className="font-semibold mb-1">Address</h3>
                       <p className="text-sm text-muted-foreground">
-                        123 Education Lane
+                        Sunflower School <br /> P. O. Box DK 193
                         <br />
-                        Springfield, ST 12345
+                        Darkuman - Accra.
+                        <br/>
+                        Digital Address: GA-355-8114
                       </p>
                     </div>
                   </div>
@@ -77,7 +81,7 @@ export default function ContactPage() {
                     </div>
                     <div>
                       <h3 className="font-semibold mb-1">Phone</h3>
-                      <p className="text-sm text-muted-foreground">(555) 123-4567</p>
+                      <p className="text-sm text-muted-foreground">030 701 0222 <br />030 702 0640</p>
                     </div>
                   </div>
                   <div className="flex gap-4">
@@ -86,7 +90,7 @@ export default function ContactPage() {
                     </div>
                     <div>
                       <h3 className="font-semibold mb-1">Email</h3>
-                      <p className="text-sm text-muted-foreground">info@oakwoodacademy.edu</p>
+                      <p className="text-sm text-muted-foreground">enquiries@sunflower.edu.gh</p>
                     </div>
                   </div>
                   <div className="flex gap-4">
@@ -98,7 +102,7 @@ export default function ContactPage() {
                       <p className="text-sm text-muted-foreground">
                         Monday - Friday
                         <br />
-                        8:00 AM - 4:00 PM
+                        8:00 AM - 5:00 PM
                       </p>
                     </div>
                   </div>

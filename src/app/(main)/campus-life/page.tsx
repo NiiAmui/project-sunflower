@@ -11,7 +11,7 @@ export default function CampusLifePage() {
                     <div className="max-w-3xl">
                         <h1 className="font-serif text-5xl lg:text-6xl font-semibold mb-6 text-balance">Campus Life</h1>
                         <p className="text-xl text-muted-foreground leading-relaxed">
-                            Beyond academics, Oakwood Academy offers a vibrant community where students explore their passions and
+                            Beyond academics, Sunflower School offers a vibrant community where students explore their passions and
                             develop lifelong friendships.
                         </p>
                     </div>
@@ -36,7 +36,7 @@ export default function CampusLifePage() {
                             <div className="w-16 h-16 bg-primary/10 rounded-full flex items-center justify-center mx-auto mb-4">
                                 <Trophy className="w-8 h-8 text-primary" />
                             </div>
-                            <h3 className="font-semibold text-lg mb-2">Athletics</h3>
+                            <h3 className="font-semibold text-lg mb-2">Sport Club</h3>
                             <p className="text-sm text-muted-foreground leading-relaxed">
                                 Soccer, basketball, volleyball, track & field, and more
                             </p>
@@ -45,7 +45,7 @@ export default function CampusLifePage() {
                             <div className="w-16 h-16 bg-primary/10 rounded-full flex items-center justify-center mx-auto mb-4">
                                 <Palette className="w-8 h-8 text-primary" />
                             </div>
-                            <h3 className="font-semibold text-lg mb-2">Visual Arts</h3>
+                            <h3 className="font-semibold text-lg mb-2">Journalism and Photography</h3>
                             <p className="text-sm text-muted-foreground leading-relaxed">
                                 Painting, sculpture, photography, and digital design
                             </p>
@@ -54,7 +54,7 @@ export default function CampusLifePage() {
                             <div className="w-16 h-16 bg-primary/10 rounded-full flex items-center justify-center mx-auto mb-4">
                                 <Theater className="w-8 h-8 text-primary" />
                             </div>
-                            <h3 className="font-semibold text-lg mb-2">Drama & Theater</h3>
+                            <h3 className="font-semibold text-lg mb-2">Drama & Choreography</h3>
                             <p className="text-sm text-muted-foreground leading-relaxed">
                                 Annual productions, improv club, and acting workshops
                             </p>
@@ -99,7 +99,7 @@ export default function CampusLifePage() {
                             </p>
                         </div>
                         <div className="p-6">
-                            <h3 className="font-semibold text-xl mb-3">Library & Media Center</h3>
+                            <h3 className="font-semibold text-xl mb-3">Library</h3>
                             <p className="text-muted-foreground leading-relaxed">
                                 Extensive collection of books, digital resources, and collaborative study spaces
                             </p>
@@ -111,9 +111,11 @@ export default function CampusLifePage() {
                             </p>
                         </div>
                         <div className="p-6">
-                            <h3 className="font-semibold text-xl mb-3">Arts Center</h3>
+                            <h3 className="font-semibold text-xl mb-3">Computer Lab</h3>
                             <p className="text-muted-foreground leading-relaxed">
-                                Dedicated spaces for music, visual arts, and theater with professional-grade equipment
+                                At Sunflower School, our modern Computer Lab gives students hands-on experience with technology. 
+                                Learners explore coding, digital creativity, and research skills in a safe and 
+                                supportive environment—preparing them for the digital world ahead.
                             </p>
                         </div>
                         <div className="p-6">
@@ -132,7 +134,7 @@ export default function CampusLifePage() {
                     <div className="max-w-3xl mx-auto text-center">
                         <h2 className="font-serif text-4xl font-semibold mb-6">A Day in the Life</h2>
                         <p className="text-muted-foreground leading-relaxed mb-8">
-                            From morning assembly to afternoon activities, every day at Oakwood Academy is filled with opportunities
+                            From morning assembly to afternoon activities, every day at Sunflower School is filled with opportunities
                             for learning, growth, and connection. Our students enjoy a balanced schedule that includes rigorous
                             academics, creative exploration, physical activity, and social engagement.
                         </p>
@@ -148,7 +150,7 @@ export default function CampusLifePage() {
             {/* CTA */}
             <section className="py-20 bg-muted/30">
                 <div className="container mx-auto px-4 lg:px-8 text-center">
-                    <h2 className="font-serif text-4xl font-semibold mb-6">Experience Oakwood Academy</h2>
+                    <h2 className="font-serif text-4xl font-semibold mb-6">Experience Sunflower School</h2>
                     <p className="text-xl text-muted-foreground mb-8 max-w-2xl mx-auto">
                         Schedule a campus tour to see our facilities and meet our community
                     </p>

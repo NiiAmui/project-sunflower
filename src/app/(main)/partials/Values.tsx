@@ -9,8 +9,8 @@ export function Values() {
             Excellence, Innovation, and Character
           </h2>
           <p className="text-lg text-muted-foreground leading-relaxed">
-            Our commitment to holistic education shapes well-rounded individuals
-            prepared to make meaningful contributions to society.
+            At Sunflower School, we believe in nurturing not just academic excellence, 
+            but also character, creativity, and confidence.
           </p>
         </div>
 
@@ -28,11 +28,9 @@ export function Values() {
 
         <div className="max-w-3xl mx-auto text-center mt-16">
           <p className="text-base text-muted-foreground leading-relaxed mb-8">
-            At Oakwood Academy, we believe in nurturing not just academic
-            excellence, but also character, creativity, and compassion. Our
-            dedicated faculty and state-of-the-art facilities provide an
-            environment where students thrive intellectually, socially, and
-            emotionally.
+            Our dedicated teachers and supportive environment help each child thrive intellectually, socially, and emotionally.
+            With a strong blend of national and international curricula, we empower our learners to shine 
+            brightly and make a positive impact in their communities and beyond.
           </p>
         </div>
       </div>
